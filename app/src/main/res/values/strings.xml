@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">WhereMyStore</string>
+    <string name="app_title">추억의 3천냥</string>
+    <string name="app_title02">회원가입</string>
+    <string name="app_title03">정보 찾기</string>
+    <string name="asterisk">*</string>
+    <string name="dash">-</string>
+    <string name="slash">/</string>
+    <string name="ok">확인</string>
+    <string name="zero04">0000</string>
+    <string name="zeroOne">01</string>
+    <string name="register">회원가입</string>
+    <string name="map">지도</string>
+    <string name="myPage">마이페이지</string>
+    <string name="refresh">새로고침</string>
+    <string name="tilde">~</string>
+    <string name="etc">기타</string>
+    <string name="gallery">갤러리</string>
+    <string name="camera">카메라</string>
+    <string name="search">조회</string>
+    <string name="setting">설정</string>
+    <string name="register_go">등록</string>
+    <string name="cancel">취소</string>
+    <string name="delete">삭제</string>
+    <string name="close">닫기</string>
+    <string name="login">로그인</string>
+
+    <!-- use to register layout -->
+    <string name="register_title">회원정보 입력</string>
+
+    <string name="essentialInput">필수 입력</string>'
+    <string name="pw_msg01">영문, 숫자, 특수문자 3가지 조합 8자리 이상이 아닙니다.</string>
+    <string name="pw_msg02">영문, 숫자, 특수문자 3가지 조합 8자리 이상이 맞습니다.</string>
+    <string name="pw_msg03">비밀번호가 일치하지 않습니다.</string>
+    <string name="pw_msg04">비밀번호가 일치합니다.</string>
+    <string name="id_msg01">사용 가능한 아이디입니다.</string>
+    <string name="terms01">추억의 3천냥 이용약관</string>
+    <string name="terms02">개인정보 수집 이용 동의</string>
+    <string name="terms03">(필수)</string>
+    <string name="terms04">내용보기 ></string>
+
+    <string name="user_name">이름</string>
+    <string name="user_id">아이디</string>
+    <string name="user_pw">비밀번호</string>
+    <string name="user_pw_again">비밀번호 확인</string>
+    <string name="user_nickname">닉네임</string>
+    <string name="user_phone">휴대번호</string>
+    <string name="user_date">생년월일</string>
+    <string name="user_sex">성별</string>
+    <string name="user_man">남</string>
+    <string name="user_woman">여</string>
+    <string name="auth_send">인증번호 발송</string>
+    <string name="auth_send_again">인증번호 재발송</string>
+    <string name="auth_phone_check">인증번호 입력</string>
+    <string name="secondInfo">초 이내에 인증을 해주시기 바랍니다.</string>
+    <string name="add_location">가게 등록</string>
+    <string name="idCheckTv">아이디 중복 확인</string>
+
+    <!-- use to fragment_add -->
+    <string name="add_title">가게 정보 등록</string>
+    <string name="img">사진</string>
+    <string name="add_name">이름 혹은 위치정보</string>
+    <string name="add_nameHint">가게 이름 혹은 위치를 알 수 있게 작성해주세요.</string>
+    <string name="address">주소</string>
+    <string name="addressHint">근처 주소를 \'지도에서 표시\' 를 통해 선택해주세요.</string>
+    <string name="add_addrBtn">지도에서 표시 ></string>
+    <string name="type">종류</string>
+    <string name="multiChoice">(다중 선택 가능)</string>
+    <string name="bongearbbang">붕어빵</string>
+    <string name="ddunckbbunggi">떡볶이</string>
+    <string name="hottuck">호떡</string>
+    <string name="gungoguma">군고구마</string>
+    <string name="pulbbang">풀빵</string>
+    <string name="takoyaki">타코야끼</string>
+    <string name="operationTime">운영 시간</string>
+    <string name="operationDate">등장 요일</string>
+    <string name="sun">일</string>
+    <string name="mon">월</string>
+    <string name="tue">화</string>
+    <string name="wen">수</string>
+    <string name="thr">목</string>
+    <string name="fri">금</string>
+    <string name="sat">토</string>
+    <string name="payMethod">결제 방법</string>
+    <string name="cashMethod">현금 결제</string>
+    <string name="cardMethod">카드 결제</string>
+    <string name="bankMethod">무통장 가능</string>
+    <string name="memo">메모</string>
+    <string name="memoHint">메뉴, 가격, 위치 추가 설명 등 자유로운 형식으로 작성해 주세요.</string>
+    <string name="menu">메뉴</string>
+    <string name="registerImg">사진 등록하기</string>
+
+
+    <!-- use to fragment_map -->
+    <string name="map_title">지도 보기</string>
+
+
+    <!-- use to fragment_map -->
+    <string name="my_logout">로그아웃</string>
+    <string name="my_memoTv01">아직 등록 목록이 없습니다.</string>
+    <string name="my_memoTv02">아직 즐겨찾기 목록이 없습니다.</string>
+    <string name="my_registerList">등록 목록</string>
+    <string name="my_favorite">즐겨찾기</string>
+    <string name="my_autoLoginUnlock">자동 로그인 해제</string>
+
+
+    <!-- use to Bottom Sheet -->
+    <string name="bottom_title">작업 선택</string>
+    <string name="bottom_msg">둘 중 원하는 작업을 선택해주세요.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="otherLogin">다른 방법으로 로그인하기</string>
+    <string name="popup_option_title">조회 조건 설정</string>
+    <string name="registerGo">회원가입 하기</string>
+    <string name="findInfo">아이디 혹은 비밀번호 찾기</string>
+    <string name="autoLogin">자동 로그인</string>
+    <string name="idSave">아이디 저장</string>
+    <string name="idFind">아이디 찾기</string>
+    <string name="pwFind">비밀번호 찾기</string>
+    <string name="infoCheck">인증 확인 요청</string>
+    <string name="idFindText01">해당 정보로 가입한 이력은 다음과 같습니다.</string>
+    <string name="idFindText02">비밀번호 변경하기</string>
+    <string name="idFindText03">조회된 아이디가 없습니다.</string>
+    <string name="googleLogin">구글 로그인</string>
+    <string name="todo">TODO</string>
+</resources>

@@ -1,0 +1,20 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        // 카카오 로그인 사용할려고 카카오 추가
+        maven { url 'https://devrepo.kakao.com/nexus/content/groups/public/' }
+        // 네이버 지도 사용할려고 네이버 추가
+        maven { url 'https://naver.jfrog.io/artifactory/maven/' }
+    }
+}
+rootProject.name = "WhereMyStore"
+include ':app'
